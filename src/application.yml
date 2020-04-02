@@ -1,0 +1,3 @@
+myConfig: HELLO Im Huy Tran
+logging:
+  level: INFO
